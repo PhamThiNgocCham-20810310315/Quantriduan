@@ -3,6 +3,7 @@ namespace QLCHMyPham
 {
     partial class Hoa_Don
     {
+        //
         /// <summary>
         /// Required designer variable.
         /// </summary>
